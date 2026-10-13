@@ -1,0 +1,422 @@
+[
+  {
+    "path": ".gitignore",
+    "source": "publication-specific",
+    "size": 242,
+    "sha256": "d3cf1c768aab45de8c69fafd8c1d1d2d087af24f897de1aa5e792c0bbffbbb21"
+  },
+  {
+    "path": "README.md",
+    "source": "publication-specific",
+    "size": 2186,
+    "sha256": "8e92fa6a6a791c3869e6d863b6c2f3de9ce07ba404962f34d65edd348df2e043"
+  },
+  {
+    "path": "THIRD_PARTY.md",
+    "source": "publication-specific",
+    "size": 1283,
+    "sha256": "4080c244e2ca8504c275682d56a87ef1971714c98189f00bf0c168709af7a2d8"
+  },
+  {
+    "path": "docs/AI_EQ_CONVERSION.md",
+    "source": "publication-specific",
+    "size": 10598,
+    "sha256": "d4a0771e29b3248657d5125ad46076a2e3e24979e9979aa4f042f5df90c6c39f"
+  },
+  {
+    "path": "docs/BUILD.md",
+    "source": "publication-specific",
+    "size": 1840,
+    "sha256": "b0352fc255bb04c88f315e3fce3637ff531b9070d64d69133e984c4fb571bdc2"
+  },
+  {
+    "path": "docs/CHANGELOG.md",
+    "source": "publication-specific",
+    "size": 1095,
+    "sha256": "ee5e7f9a8d0e08593476e597324a4bc1413c897b916a86b8d9f0bdcdb2099148"
+  },
+  {
+    "path": "docs/CONFIG_FORMAT.md",
+    "source": "peq-lab/tasks/P1-portable-core/COMPATIBILITY.md",
+    "sha256": "54b9972f729bb1b02f51f7c917dc275f862b2886acf89ca58940e921039230ea",
+    "size": 8945
+  },
+  {
+    "path": "release.json",
+    "source": "publication-specific",
+    "size": 936,
+    "sha256": "429528895a1ea6e5268e91379e6dd4c58d226e9750340c34c55c0c8ddd425109"
+  },
+  {
+    "path": "src/AI_CONTEXT.md",
+    "source": "publication-specific",
+    "size": 5475,
+    "sha256": "939aae5faf3e8b703b574828771c7965ee40b9ec4d4f4fba9c451810019f2197"
+  },
+  {
+    "path": "src/audio/layers.h",
+    "source": "peq-lab/tasks/A4-high-rate-peq/src/layers.h",
+    "sha256": "c40a7f333ecc84016df240f9f1a82337967b9b78ee935ecb1a9a66ee6d9e887f",
+    "size": 779
+  },
+  {
+    "path": "src/audio/native_pcm.h",
+    "source": "peq-lab/tasks/A4-high-rate-peq/src/native_pcm.h",
+    "sha256": "7ac7abfda3bfed2757eef0b53952723a16ccc8d6928de2f298929b74ea565518",
+    "size": 3129
+  },
+  {
+    "path": "src/audio/rate_gates.S",
+    "source": "peq-lab/tasks/A4-high-rate-peq/src/rate_gates.S",
+    "sha256": "30367ee959d8748f35d4420056999c8e7a7b7d95c77c639fc9ced6075d3b4621",
+    "size": 690
+  },
+  {
+    "path": "src/audio/stock_calls.S",
+    "source": "peq-lab/tasks/A4-high-rate-peq/src/stock_calls.S",
+    "sha256": "9bf3b4abb6c6ed1e627e74cbf5d7795ea5b2d7304456d9cb6bc27339f2c91b09",
+    "size": 361
+  },
+  {
+    "path": "src/audio/vendor/LICENSE",
+    "source": "peq-lab/tasks/A4-high-rate-peq/src/vendor/LICENSE",
+    "sha256": "4e19996ba6b11d5e4b8c43541c2ff86e1dcb082adc49e020be32a7fb7cab4190",
+    "size": 1069
+  },
+  {
+    "path": "src/audio/vendor/UPSTREAM.md",
+    "source": "peq-lab/tasks/A4-high-rate-peq/src/vendor/UPSTREAM.md",
+    "sha256": "81104513ded8bca39288087b60aad695994434bed55b7c09ff1248a897e39fee",
+    "size": 2470
+  },
+  {
+    "path": "src/audio/vendor/peq.c",
+    "source": "peq-lab/tasks/A4-high-rate-peq/src/vendor/peq.c",
+    "sha256": "49827bfa2c8d23642283be36b8e27f7560e86cc2ea8af06f40674dd65a4ef094",
+    "size": 23164
+  },
+  {
+    "path": "src/audio/vendor/peq.h",
+    "source": "peq-lab/tasks/A4-high-rate-peq/src/vendor/peq.h",
+    "sha256": "80e23a0b2399020dc22cb6e8dd4096eb9795a7de1f353dc85030a9b81a5248fa",
+    "size": 2616
+  },
+  {
+    "path": "src/audio/vendor/peq_platform.h",
+    "source": "peq-lab/tasks/A4-high-rate-peq/src/vendor/peq_platform.h",
+    "sha256": "efd5e1b5a30869796098a3fface983898d006775cc9c2e031d5b63e651524034",
+    "size": 866
+  },
+  {
+    "path": "src/audio/xm5_af_abi.h",
+    "source": "peq-lab/tasks/A4-high-rate-peq/src/xm5_af_abi.h",
+    "sha256": "10f76a6cce8009047ffc13e132e5446dac23aff0c2556c51bddd0263faa9e7dc",
+    "size": 3621
+  },
+  {
+    "path": "src/audio/xm5_peq_player.c",
+    "source": "peq-lab/tasks/A4-high-rate-peq/src/xm5_peq_player.c",
+    "sha256": "22615b3b52b804cff4757b058c75dca8fbfd1d45b15a8a01758f7ebc3442d9f1",
+    "size": 16102
+  },
+  {
+    "path": "src/audio/xm5_platform.h",
+    "source": "peq-lab/tasks/A4-high-rate-peq/src/xm5_platform.h",
+    "sha256": "6f6675478fdfe50814e5c5d7782ea042b127e7b62d7d240066c17d18445bfab3",
+    "size": 2157
+  },
+  {
+    "path": "src/startup/patch.json",
+    "source": "publication-specific",
+    "size": 352,
+    "sha256": "8ae33fb1351ef64c827a54c068484085b89bd848895a7c506c111a68bce46259"
+  },
+  {
+    "path": "src/startup/rescue-call.sh",
+    "source": "publication-specific",
+    "size": 47,
+    "sha256": "d0ad2af4ce797c1544a95bb77fbebdc178446a155c9a8ebeaa764452e619d331"
+  },
+  {
+    "path": "src/startup/rescue-hook.sh",
+    "source": "publication-specific",
+    "size": 18960,
+    "sha256": "b60ea969151cb8f6c615541a8819d0e13ce101fac5cfab60fbc4f43e94358f67"
+  },
+  {
+    "path": "src/ui/binder.c",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/src/binder.c",
+    "sha256": "579c03ff2241e0935c31645e4423c8c6f73e78764f77f93fbdeb2a0e573b2b09",
+    "size": 5151
+  },
+  {
+    "path": "src/ui/compat/gnu/stubs-o32_hard_2008.h",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/src/compat/gnu/stubs-o32_hard_2008.h",
+    "sha256": "7accbab6d6ea81eaa7156216c062784f102de88759d26bb232f3980325f7fd0e",
+    "size": 161
+  },
+  {
+    "path": "src/ui/idlepool.c",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/src/idlepool.c",
+    "sha256": "68d28cd20040c4b22e246ea1cd315f7f1563abaa88a780e3ee3f68dd7915e4f1",
+    "size": 2174
+  },
+  {
+    "path": "src/ui/idlepool.h",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/src/idlepool.h",
+    "sha256": "9f5c430073a9ce60462ed1f6e434f2d549d14e055c2d62637626491a7917e5fa",
+    "size": 1464
+  },
+  {
+    "path": "src/ui/layer_owner.c",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/src/layer_owner.c",
+    "sha256": "af427cbe926e62e6360b7514912979330fd1c6ca4ad69d3193546c2c4b49ba02",
+    "size": 3753
+  },
+  {
+    "path": "src/ui/layer_owner.h",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/src/layer_owner.h",
+    "sha256": "e7e56ef39cc1e8846c726adfedae3995795ecb07da3cae029a91154f047f2175",
+    "size": 135
+  },
+  {
+    "path": "src/ui/layers.h",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/src/layers.h",
+    "sha256": "c40a7f333ecc84016df240f9f1a82337967b9b78ee935ecb1a9a66ee6d9e887f",
+    "size": 779
+  },
+  {
+    "path": "src/ui/materials.h",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/src/materials.h",
+    "sha256": "da5708660d605cf91e5a14d2360b6d0125e531a99bb42eb575e3151fe612d925",
+    "size": 2633
+  },
+  {
+    "path": "src/ui/native_header.h",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/src/native_header.h",
+    "sha256": "cda50cfb412bc81acbe94cf67ce0dd99e4978cb9f65bb6cff3b1560f3883ead5",
+    "size": 1209
+  },
+  {
+    "path": "src/ui/payload.ld",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/src/payload.ld",
+    "sha256": "6e826e08f4bbcde00a6b10d2ed1ae1b0bfe4873252274445478b0d0a64bfe87e",
+    "size": 1343
+  },
+  {
+    "path": "src/ui/runtime.c",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/src/runtime.c",
+    "sha256": "00014498769faa1d931d13e8f5a77a7b0342c2ff0b6898bc33d2cae6fd9ce0e5",
+    "size": 5131
+  },
+  {
+    "path": "src/ui/stock_addrs.h",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/src/stock_addrs.h",
+    "sha256": "5d5518c78940b91f9f2e30530d42193be3768ec955def4a7ed4874680b783c8b",
+    "size": 3255
+  },
+  {
+    "path": "src/ui/thunks.S",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/src/thunks.S",
+    "sha256": "79b81be84d8768dcea49ea3a0ec7ac0dd16ac63ac9ec5f9fb5d08ddf7a01141a",
+    "size": 3250
+  },
+  {
+    "path": "src/ui/thunks.h",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/src/thunks.h",
+    "sha256": "109f81c0219152bff0ff95572c066436531157565e5bb37269e6dfa610b52922",
+    "size": 2193
+  },
+  {
+    "path": "src/ui/trampoline.S",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/src/trampoline.S",
+    "sha256": "b6b227207c4432ef2fc405df3a1cf3fae9a7668128d5d0b6fcc5e44f3f4e0643",
+    "size": 1949
+  },
+  {
+    "path": "src/ui/vendor/LICENSE",
+    "source": "peq-lab/tasks/P1-portable-core/src/LICENSE",
+    "sha256": "4e19996ba6b11d5e4b8c43541c2ff86e1dcb082adc49e020be32a7fb7cab4190",
+    "size": 1069
+  },
+  {
+    "path": "src/ui/vendor/UPSTREAM.md",
+    "source": "peq-lab/tasks/P1-portable-core/src/UPSTREAM.md",
+    "sha256": "8daa0319a2127ba80432e7c63295b697e75a1ad8bf104ba86de915c238b4b96e",
+    "size": 828
+  },
+  {
+    "path": "src/ui/vendor/controller.c",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/vendor/controller.c",
+    "sha256": "46f0c0274172ee6280fb40b86264f4f15de4a3ac061a3897d0b8d97e9cd2bffc",
+    "size": 14542
+  },
+  {
+    "path": "src/ui/vendor/controller.h",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/vendor/controller.h",
+    "sha256": "73cfb7fd861ff201ba94615b23d85ad32af320baeb7472e50d6903d20da06b72",
+    "size": 6059
+  },
+  {
+    "path": "src/ui/vendor/native_files.c",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/vendor/native_files.c",
+    "sha256": "02375c476a98507d125c271ef292fe58ed5e43a4d935bb6227ca13ccaa1c2745",
+    "size": 15091
+  },
+  {
+    "path": "src/ui/vendor/native_files.h",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/vendor/native_files.h",
+    "sha256": "12a932e1e9804657366351945541b2ea84a01f8f83a73a5bbab8dc0cefc32b56",
+    "size": 2966
+  },
+  {
+    "path": "src/ui/vendor/peq.c",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/vendor/peq.c",
+    "sha256": "49827bfa2c8d23642283be36b8e27f7560e86cc2ea8af06f40674dd65a4ef094",
+    "size": 23164
+  },
+  {
+    "path": "src/ui/vendor/peq.h",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/vendor/peq.h",
+    "sha256": "80e23a0b2399020dc22cb6e8dd4096eb9795a7de1f353dc85030a9b81a5248fa",
+    "size": 2616
+  },
+  {
+    "path": "src/ui/vendor/peq_adapter.c",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/vendor/peq_adapter.c",
+    "sha256": "b1a490ec2fe843a41c35cc6805912414cd1d5836a1ae1c37dc55e577c7527bce",
+    "size": 865
+  },
+  {
+    "path": "src/ui/vendor/peq_adapter.h",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/vendor/peq_adapter.h",
+    "sha256": "45a68e7380df34ed66a9abb0efd3e1c5badc8fea76ddfc4917aefdbe8d7a959c",
+    "size": 613
+  },
+  {
+    "path": "src/ui/vendor/peq_awtk_view.c",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/vendor/peq_awtk_view.c",
+    "sha256": "64a3ee9c8ffa551820a140318ce11edeff95789cd0cdc5a4a522a277c0b9b65c",
+    "size": 20749
+  },
+  {
+    "path": "src/ui/vendor/peq_awtk_view.h",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/vendor/peq_awtk_view.h",
+    "sha256": "5879ec91d23e5dee5c7d0827a1d8f9d1da21ea10318f3751516f412d72f78ee5",
+    "size": 15915
+  },
+  {
+    "path": "src/ui/vendor/peq_platform.h",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/vendor/peq_platform.h",
+    "sha256": "efd5e1b5a30869796098a3fface983898d006775cc9c2e031d5b63e651524034",
+    "size": 866
+  },
+  {
+    "path": "src/ui/vendor/view.c",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/vendor/view.c",
+    "sha256": "b4f95bc20186e97ea02e18185803cf5ca303a4dd5b32db978218882742fd756f",
+    "size": 1299
+  },
+  {
+    "path": "src/ui/vendor/view.h",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/vendor/view.h",
+    "sha256": "94a814d91aad4b76d48fd10051af338ef8a6f5628a8023327871dbadec188657",
+    "size": 1063
+  },
+  {
+    "path": "src/ui/xm5_peq_platform.h",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/src/xm5_peq_platform.h",
+    "sha256": "6ac77a33de9a61d93d7a1afac9ceaac640617787c88d1d9b2d8d9785333f0980",
+    "size": 858
+  },
+  {
+    "path": "tools/audio/build_candidate.py",
+    "source": "peq-lab/tasks/B6-high-rate-peq/scripts/build_candidate.py",
+    "sha256": "5c91023b9ead48e1f91662ffb425eb81b5eec12354a44c9a9fd0bdab6f338cd8",
+    "size": 11513
+  },
+  {
+    "path": "tools/audio/build_payload.sh",
+    "source": "peq-lab/tasks/B6-high-rate-peq/scripts/build_payload.sh",
+    "sha256": "afe68ebb9cbdc9f96fd7a6eb3c7fc32bf9bb7a230b7c9bb6469840447943d8d3",
+    "size": 3463
+  },
+  {
+    "path": "tools/audio/derive_plt.py",
+    "source": "peq-lab/tasks/B6-high-rate-peq/scripts/derive_plt.py",
+    "sha256": "2c945d57adaa9e27df65d2a69cfa6e6a7c185d363aee1bdf591870cb92ba5c23",
+    "size": 5752
+  },
+  {
+    "path": "tools/audio/payload.lds",
+    "source": "peq-lab/tasks/B6-high-rate-peq/scripts/payload.lds",
+    "sha256": "8007ae98f30fa4b377946362da1fa0b4d781b8427f6ec5a9d8f16861e29e98ef",
+    "size": 1194
+  },
+  {
+    "path": "tools/audio/rate_patch.py",
+    "source": "peq-lab/tasks/B6-high-rate-peq/scripts/rate_patch.py",
+    "sha256": "38eff0c27b9fb5893b26efa8207a3c174955712bf71d995673cf317f204ad393",
+    "size": 1537
+  },
+  {
+    "path": "tools/awtk_resource.py",
+    "source": "peq-lab/ui-native-lab/export_stock.py",
+    "sha256": "e50b2913b46bde6a0416210021fac12f5ad778259057dd336da5396bcdd19180",
+    "size": 4310
+  },
+  {
+    "path": "tools/build.py",
+    "source": "publication-specific",
+    "size": 5822,
+    "sha256": "fd34058a61c9bdc8e722e86c1b19b9d92110294637ee1a58e3373a975f1ffcdc"
+  },
+  {
+    "path": "tools/elf_compact.py",
+    "source": "peq-lab/tasks/B3-size-budget/scripts/b3_compact.py",
+    "sha256": "a0126f8871032fe42068c92409ce22f084c0e39677b0935355822ca958dd58e5",
+    "size": 7465
+  },
+  {
+    "path": "tools/package/build_candidate.py",
+    "source": "peq-lab/tasks/RX8-four-row-peq-package/scripts/build_candidate.py",
+    "sha256": "f610123e99f7e53c03e63812ddd8cf523dbf54f15c36b1ac0b7c7d11a5aef1c2",
+    "size": 26853
+  },
+  {
+    "path": "tools/package/resource_guard.py",
+    "source": "peq-lab/tasks/RX8-four-row-peq-package/scripts/resource_guard.py",
+    "sha256": "5ac1646123afc24184eeadb090ced586c8a46cbdb38599916bdc88d3b16362de",
+    "size": 1803
+  },
+  {
+    "path": "tools/ui/build.sh",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/scripts/build.sh",
+    "sha256": "7f389f516369876b0517b5d060207ae88bae2a98140294c8f8ff52acfe3bfc63",
+    "size": 3217
+  },
+  {
+    "path": "tools/ui/patch.py",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/scripts/patch.py",
+    "sha256": "eedcae5b3322de1ffb361f74d7dc4faa58b954921d73c2a7d6785946d5add10f",
+    "size": 5732
+  },
+  {
+    "path": "tools/ui/patch_dual.py",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/scripts/patch_dual.py",
+    "sha256": "49f27a09c777e93ad25cf1ca982689148d52809c6ec6a868735a8fc019c79305",
+    "size": 2339
+  },
+  {
+    "path": "tools/ui/resource.py",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/scripts/resource.py",
+    "sha256": "c0a13f5e8d000b60388f8be1782ca6aaefad6302f730d0b85432abb93e78ba89",
+    "size": 1646
+  },
+  {
+    "path": "tools/ui/verify.py",
+    "source": "peq-lab/tasks/U9-four-row-peq-ui/scripts/verify.py",
+    "sha256": "c03c8799f06e6cd6c7e9942d1e945229cfe07cf32ff094c2418675b1bdfe73d5",
+    "size": 7445
+  }
+]

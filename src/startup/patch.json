@@ -1,0 +1,14 @@
+{
+  "stock_sha256": "9d0b7f80cfe032cfc24f59348c0631ae73c860395bda78928df67fe5e730bee4",
+  "output_sha256": "10cfd219856757d97fe1ec9de97828f1cc387d274f2df74aec3443540323f305",
+  "insertions": [
+    {
+      "offset": 260,
+      "file": "src/startup/rescue-hook.sh"
+    },
+    {
+      "offset": 281,
+      "file": "src/startup/rescue-call.sh"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+# Local firmware assets, dependency inputs, build staging and logs
+/dist/
+/build/
+/inputs/
+/toolchain/
+*.bin
+*.squashfs
+*.elf
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.zip
+*.7z
+*.log
+*.pyc
+__pycache__/
+.env
+.env.*
+*.key
+*.pem
+*.peace
